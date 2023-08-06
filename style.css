@@ -1,0 +1,23 @@
+
+
+
+h1,h2,h3{
+    font-weight: 120;
+    color: #ef5350
+}
+
+.adobe-img{
+    padding: 20px 0 20px;
+}
+.adobe-link{
+    color:#b71c1c;
+    font-weight: 500;
+}
+.adobe-link-ads{
+    color:#b71c1c;
+    font-weight: 500;
+    font-size: smaller;
+}
+.adobe-contents{
+    position: sticky;top: 20px;
+}
