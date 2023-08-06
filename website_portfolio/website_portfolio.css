@@ -1,0 +1,28 @@
+
+h1,h2,h3,h4{
+    font-weight: 400;
+    color: #17925f
+}
+.text-11{   
+    font-weight: 700;
+    color: #0ba08c
+}
+
+.parallax-container{
+    height: "your height here";
+  }
+.brand-logo{
+    padding: 10% 20px;}
+
+.adobe-link{
+    color:#b71c1c;
+    font-weight: 500;
+}
+.adobe-link-ads{
+    color:#b71c1c;
+    font-weight: 500;
+    font-size: smaller;
+}
+.adobe-contents{
+    position: sticky;top: 20px;
+}
